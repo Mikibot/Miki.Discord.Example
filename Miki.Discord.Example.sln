@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Miki.Discord.Example", "Miki.Discord.Example\Miki.Discord.Example.csproj", "{DA1AA52F-0C4E-4711-91C7-50AF69B1A99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1AA52F-0C4E-4711-91C7-50AF69B1A99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1AA52F-0C4E-4711-91C7-50AF69B1A99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1AA52F-0C4E-4711-91C7-50AF69B1A99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1AA52F-0C4E-4711-91C7-50AF69B1A99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23ABF94D-8A69-420A-9BC1-9935556C9E71}
+	EndGlobalSection
+EndGlobal
